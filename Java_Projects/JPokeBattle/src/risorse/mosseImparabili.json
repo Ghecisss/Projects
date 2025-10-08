@@ -1,0 +1,248 @@
+{
+  "pokemonMosseImparabili": {
+    "Charmander": [
+      { "nomeMossa": "Graffio", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Braciere", "tipo": "Fuoco", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Ira", "tipo": "Normale", "potenza": 30, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lacerazione", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lanciafiamme", "tipo": "Fuoco", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbofuoco", "tipo": "Fuoco", "potenza": 50, "precisione": 85, "categoria": "Speciale" }
+    ],
+    "Charmeleon": [
+      { "nomeMossa": "Graffio", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Braciere", "tipo": "Fuoco", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Ira", "tipo": "Normale", "potenza": 30, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lacerazione", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lanciafiamme", "tipo": "Fuoco", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbofuoco", "tipo": "Fuoco", "potenza": 50, "precisione": 85, "categoria": "Speciale" }
+    ],
+    "Charizard": [
+      { "nomeMossa": "Graffio", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Braciere", "tipo": "Fuoco", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Ira", "tipo": "Normale", "potenza": 30, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lacerazione", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Lanciafiamme", "tipo": "Fuoco", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbofuoco", "tipo": "Fuoco", "potenza": 50, "precisione": 85, "categoria": "Speciale" }
+    ],
+    "Bulbasaur": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Parassiseme", "tipo": "Erba", "potenza": 40, "precisione": 90, "categoria": "Speciale" },
+      { "nomeMossa": "Frustata", "tipo": "Erba", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Velenpolvere", "tipo": "Veleno", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Foglielama", "tipo": "Erba", "potenza": 70, "precisione": 95, "categoria": "Fisica" },
+      { "nomeMossa": "Crescita", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sonnifero", "tipo": "Erba", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Solarraggio", "tipo": "Erba", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Ivysaur": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Parassiseme", "tipo": "Erba", "potenza": 40, "precisione": 90, "categoria": "Speciale" },
+      { "nomeMossa": "Frustata", "tipo": "Erba", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Velenpolvere", "tipo": "Veleno", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Foglielama", "tipo": "Erba", "potenza": 70, "precisione": 95, "categoria": "Fisica" },
+      { "nomeMossa": "Crescita", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sonnifero", "tipo": "Erba", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Solarraggio", "tipo": "Erba", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Venusaur": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Parassiseme", "tipo": "Erba", "potenza": 40, "precisione": 90, "categoria": "Speciale" },
+      { "nomeMossa": "Frustata", "tipo": "Erba", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Velenpolvere", "tipo": "Veleno", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Foglielama", "tipo": "Erba", "potenza": 70, "precisione": 95, "categoria": "Fisica" },
+      { "nomeMossa": "Crescita", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sonnifero", "tipo": "Erba", "potenza": 0, "precisione": 75, "categoria": "Stato" },
+      { "nomeMossa": "Solarraggio", "tipo": "Erba", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Squirtle": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Colpocoda", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Bolla", "tipo": "Acqua", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Pistolacqua", "tipo": "Acqua", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Morso", "tipo": "Buio", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ritirata", "tipo": "Acqua", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Capocciata", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Idropompa", "tipo": "Acqua", "potenza": 90, "precisione": 80, "categoria": "Speciale" }
+    ],
+    "Wartortle": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Colpocoda", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Bolla", "tipo": "Acqua", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Pistolacqua", "tipo": "Acqua", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Morso", "tipo": "Buio", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ritirata", "tipo": "Acqua", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Capocciata", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Idropompa", "tipo": "Acqua", "potenza": 90, "precisione": 80, "categoria": "Speciale" }
+    ],
+    "Blastoise": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Colpocoda", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Bolla", "tipo": "Acqua", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Pistolacqua", "tipo": "Acqua", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Morso", "tipo": "Buio", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ritirata", "tipo": "Acqua", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Capocciata", "tipo": "Normale", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Idropompa", "tipo": "Acqua", "potenza": 90, "precisione": 80, "categoria": "Speciale" }
+    ],
+    "Pidgey": [
+      { "nomeMossa": "Attacco Rapido", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbine", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Attacco d'Ala", "tipo": "Volante", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Agilità", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Speculmossa", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" }
+    ],
+    "Pidgeotto": [
+      { "nomeMossa": "Attacco Rapido", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbine", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Attacco d'Ala", "tipo": "Volante", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Agilità", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Speculmossa", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" }
+    ],
+    "Pidgeot": [
+      { "nomeMossa": "Attacco Rapido", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Turbine", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Attacco d'Ala", "tipo": "Volante", "potenza": 70, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Agilità", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Speculmossa", "tipo": "Volante", "potenza": 0, "precisione": 100, "categoria": "Stato" }
+    ],
+    "Rattata": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Colpocoda", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Morso", "tipo": "Buio", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Attacco Rapido", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Iperzanna", "tipo": "Normale", "potenza": 80, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Raticate": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Colpocoda", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Morso", "tipo": "Buio", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Attacco Rapido", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Iperzanna", "tipo": "Normale", "potenza": 80, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Caterpie": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Millebase", "tipo": "Coleottero", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Confusione", "tipo": "Psico", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Psicoraggio", "tipo": "Psico", "potenza": 80, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Metapod": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Millebase", "tipo": "Coleottero", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Confusione", "tipo": "Psico", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Psicoraggio", "tipo": "Psico", "potenza": 80, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Butterfree": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Millebase", "tipo": "Coleottero", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Confusione", "tipo": "Psico", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Raffica", "tipo": "Volante", "potenza": 40, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Psicoraggio", "tipo": "Psico", "potenza": 80, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Pikachu": [
+      { "nomeMossa": "Graffio", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Tuonoshock", "tipo": "Elettro", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Attacco Rapido", "tipo": "Elettro", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Schianto", "tipo": "Normale", "potenza": 80, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Comete", "tipo": "Normale", "potenza": 60, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Fulmine", "tipo": "Elettro", "potenza": 95, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Tuono", "tipo": "Elettro", "potenza": 120, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Raichu": [
+      { "nomeMossa": "Graffio", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ruggito", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Tuonoshock", "tipo": "Elettro", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Attacco Rapido", "tipo": "Elettro", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Schianto", "tipo": "Normale", "potenza": 80, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Comete", "tipo": "Normale", "potenza": 60, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Fulmine", "tipo": "Elettro", "potenza": 95, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Tuono", "tipo": "Elettro", "potenza": 120, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Geodude": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ricciolscudo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sassata", "tipo": "Roccia", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Terremoto", "tipo": "Terra", "potenza": 100, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Graveler": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ricciolscudo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sassata", "tipo": "Roccia", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Terremoto", "tipo": "Terra", "potenza": 100, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Golem": [
+      { "nomeMossa": "Azione", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Ricciolscudo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Sassata", "tipo": "Roccia", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Rafforzatore", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Terremoto", "tipo": "Terra", "potenza": 100, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Machop": [
+      { "nomeMossa": "Colpokarate", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Colpobasso", "tipo": "Lotta", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Movimento Sismico", "tipo": "Lotta", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Sottomissione", "tipo": "lotta", "potenza": 80, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Machoke": [
+      { "nomeMossa": "Colpokarate", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Colpobasso", "tipo": "Lotta", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Movimento Sismico", "tipo": "Lotta", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Sottomissione", "tipo": "lotta", "potenza": 80, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Machamp": [
+      { "nomeMossa": "Colpokarate", "tipo": "Normale", "potenza": 40, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Fulmisguardo", "tipo": "Normale", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Colpobasso", "tipo": "Lotta", "potenza": 50, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Movimento Sismico", "tipo": "Lotta", "potenza": 60, "precisione": 100, "categoria": "Fisica" },
+      { "nomeMossa": "Sottomissione", "tipo": "lotta", "potenza": 80, "precisione": 100, "categoria": "Fisica" }
+    ],
+    "Gastly": [
+      { "nomeMossa": "Ombra Notturna", "tipo": "Spettro", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Stordiraggio", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Leccata", "tipo": "Spettro", "potenza": 20, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Palla Ombra", "tipo": "Buio", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Ipnosi", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Mangiasogni", "tipo": "Psico", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Haunter": [
+      { "nomeMossa": "Ombra Notturna", "tipo": "Spettro", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Stordiraggio", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Leccata", "tipo": "Spettro", "potenza": 20, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Palla Ombra", "tipo": "Buio", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Ipnosi", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Mangiasogni", "tipo": "Psico", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ],
+    "Gengar": [
+      { "nomeMossa": "Ombra Notturna", "tipo": "Spettro", "potenza": 50, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Stordiraggio", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Leccata", "tipo": "Spettro", "potenza": 20, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Palla Ombra", "tipo": "Buio", "potenza": 80, "precisione": 100, "categoria": "Speciale" },
+      { "nomeMossa": "Ipnosi", "tipo": "Psico", "potenza": 0, "precisione": 100, "categoria": "Stato" },
+      { "nomeMossa": "Mangiasogni", "tipo": "Psico", "potenza": 100, "precisione": 100, "categoria": "Speciale" }
+    ]
+  }
+}

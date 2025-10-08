@@ -1,0 +1,254 @@
+[
+  {
+    "nome": "Charmander",
+    "livello": 5,
+    "tipo": "Fuoco",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Charmeleon",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Charmeleon",
+    "livello": 16,
+    "tipo": "Fuoco",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "Charizard",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Charizard",
+    "livello": 36,
+    "tipo": "Fuoco",
+    "tipoSecondario": "Volante",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Squirtle",
+    "livello": 5,
+    "tipo": "Acqua",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Wartortle",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Wartortle",
+    "livello": 16,
+    "tipo": "Acqua",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "Blastoise",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Blastoise",
+    "livello": 36,
+    "tipo": "Acqua",
+    "tipoSecondario": "null",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Bulbasaur",
+    "livello": 5,
+    "tipo": "Erba",
+    "tipoSecondario": "Veleno",
+    "tier": 1,
+    "evolutionId": "Ivysaur",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Ivysaur",
+    "livello": 16,
+    "tipo": "Erba",
+    "tipoSecondario": "Veleno",
+    "tier": 2,
+    "evolutionId": "Venusaur",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Venusaur",
+    "livello": 32,
+    "tipo": "Erba",
+    "tipoSecondario": "Veleno",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Pidgey",
+    "livello": 5,
+    "tipo": "Normale",
+    "tipoSecondario": "Volante",
+    "tier": 1,
+    "evolutionId": "Pidgeotto",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Pidgeotto",
+    "livello": 18,
+    "tipo": "Normale",
+    "tipoSecondario": "Volante",
+    "tier": 2,
+    "evolutionId": "Pidgeot",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Pidgeot",
+    "livello": 36,
+    "tipo": "Normale",
+    "tipoSecondario": "Volante",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Rattata",
+    "livello": 5,
+    "tipo": "Normale",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Raticate",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Raticate",
+    "livello": 20,
+    "tipo": "Normale",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Caterpie",
+    "livello": 5,
+    "tipo": "Coleottero",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Metapod",
+    "evolutionLv": 7
+  },
+  {
+    "nome": "Metapod",
+    "livello": 7,
+    "tipo": "Coleottero",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "Butterfree",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Butterfree",
+    "livello": 10,
+    "tipo": "Coleottero",
+    "tipoSecondario": "Volante",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Pikachu",
+    "livello": 5,
+    "tipo": "Elettro",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Raichu",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Raichu",
+    "livello": 20,
+    "tipo": "Elettro",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Geodude",
+    "livello": 5,
+    "tipo": "Roccia",
+    "tipoSecondario": "Terra",
+    "tier": 1,
+    "evolutionId": "Graveler",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Graveler",
+    "livello": 25,
+    "tipo": "Roccia",
+    "tipoSecondario": "Terra",
+    "tier": 2,
+    "evolutionId": "Golem",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Golem",
+    "livello": 36,
+    "tipo": "Roccia",
+    "tipoSecondario": "Terra",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Machop",
+    "livello": 5,
+    "tipo": "Lotta",
+    "tipoSecondario": "null",
+    "tier": 1,
+    "evolutionId": "Machoke",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Machoke",
+    "livello": 28,
+    "tipo": "Lotta",
+    "tipoSecondario": "null",
+    "tier": 2,
+    "evolutionId": "Machamp",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Machamp",
+    "livello": 36,
+    "tipo": "Lotta",
+    "tipoSecondario": "null",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  },
+  {
+    "nome": "Gastly",
+    "livello": 5,
+    "tipo": "Spettro",
+    "tipoSecondario": "Veleno",
+    "tier": 1,
+    "evolutionId": "Haunter",
+    "evolutionLv": 10
+  },
+  {
+    "nome": "Haunter",
+    "livello": 25,
+    "tipo": "Spettro",
+    "tipoSecondario": "Veleno",
+    "tier": 2,
+    "evolutionId": "Gengar",
+    "evolutionLv": 20
+  },
+  {
+    "nome": "Gengar",
+    "livello": 36,
+    "tipo": "Spettro",
+    "tipoSecondario": "Veleno",
+    "tier": 3,
+    "evolutionId": "null",
+    "evolutionLv": 0
+  }
+]
